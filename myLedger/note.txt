@@ -1,0 +1,29 @@
+8/2 오늘 할 일
+1. 상품 추가 페이지 레이아웃 정하기
+    - 모바일 버전도  
+2. redux typescript 로 state 짜기
+
+
+
+  parentCategories: {
+    clothes: [],
+    foods: [],
+    furnitures: [],
+    homeAppliances: [],
+    toiletries: [],
+    cleaningTools: [],
+    miscItems: [],
+    phonePlans: [],
+    transFee: [],
+    taxes: [],
+    monthlyServices: [],
+    medicines: [],
+  },
+
+
+PCArr = ["clothes","foods","furnitures","homeAppliances","toiletries","cleaningTools",...]
+
+
+
+
+
